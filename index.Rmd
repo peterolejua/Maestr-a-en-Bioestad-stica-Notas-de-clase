@@ -1,0 +1,21 @@
+---
+title: "SESIÓN 1. ANÁLISIS DE VARIANZA Y CORRELACIÓN"
+author: 
+  - name: Peter Olejua
+    orcid: 0000-0002-2478-0908
+date: "April 19, 2017"
+
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+---
+
+Pontificia Universidad Javeriana  
+Departamento de Epidemiología Clínica y Bioestadística  
+Maestría en Bioestadística II  
+Semestre 2017-I  
+olejua.peter@javeriana.edu.co
+
+# Maestría en Bioestadística: Notas de clases
+
